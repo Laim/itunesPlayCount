@@ -1,0 +1,41 @@
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\Interop.iTunesLib.dll
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbproj.ResolveComReference.cache
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Form1.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Resources.resources
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbproj.GenerateResource.Cache
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.exe.config
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.pdb
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.exe
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.xml
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.pdb
+C:\Users\Laim\Documents\Visual Studio 2013\Projects\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Form2.resources
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.exe.config
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\Interop.iTunesLib.dll
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbproj.ResolveComReference.cache
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.exe
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.xml
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.pdb
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.exe
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.pdb
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.xml
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbprojResolveAssemblyReference.cache
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Form1.resources
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Form2.resources
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Resources.resources
+F:\General Files\Programs\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbproj.GenerateResource.Cache
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.exe.config
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\Interop.iTunesLib.dll
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbproj.ResolveComReference.cache
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.exe
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.xml
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\iTunes Play Count Changer.pdb
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.exe
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.pdb
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\bin\Debug\iTunes Play Count Changer.xml
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbprojResolveAssemblyReference.cache
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Form1.resources
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Form2.resources
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.Resources.resources
+H:\Programs\Mine\For Site\itunesPlayCount\itunesPlayCount\obj\Debug\itunesPlayCount.vbproj.GenerateResource.Cache
